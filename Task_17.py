@@ -41,6 +41,3 @@ def f(n):
 print(f(100))
 
 
-for i in range(n):
-    dp.append([0] * n)
-    ep.append([0] * n)

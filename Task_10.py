@@ -1,9 +1,9 @@
-# n, s = map(int, input().split())
+n, s = map(int, input().split())
 
 data = []
 
-# for i in range(n):
-# data.append(list(map(int, input().split())))
+for i in range(n):
+    data.append(list(map(int, input().split())))
 n, s = 3, 5
 data = [[2, 3], [10, 5], [5, 10]]
 
